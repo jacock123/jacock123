@@ -1,6 +1,6 @@
 # Hi 👋 My name is Otis C.
 ## Hobby experimental Developer
-I'm a experimental hobby Developer, who uses its leisure time on Coding, little fun Projects in PHP, HTML, CSS, JavaScript, Python, Java and Kotlin. Everything started with Minecraft Client Developing over Python, to Plugin Development, to Web Development.
+I'm a experimental hobby Developer, who uses its leisure time on Coding, little fun Projects in PHP, HTML, CSS, JavaScript, Python, Java and Kotlin. Everything started with Minecraft Client Developing over Python, to Plugin Development, to Web Development, to skript automatations for a Company.
 * 🌍  I'm based in Hamburg
 * ✉️  You can contact me at [contact.blackii@gmail.com](mailto:contact.blackii@gmail.com)
 * 🧠  I'm learning PHP, Docker, and a lot about servers* 🤝  I'm open to collaborating on cool project ideas
