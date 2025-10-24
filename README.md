@@ -12,6 +12,10 @@ I'm a experimental hobby Developer, who uses its leisure time on Coding, little 
 ## Hobby sound engineer
 I'm also working (sometimes) as a sound engineer in some local music venues. There i'm not specified on a single part of sound engineering, because it's so small i can run a gig on my own, but most of the time i'm working at the FOH 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacock123&show_icons=true&locale=en&layout=compact" alt="jacock123" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacock123&show_icons=true&locale=en" alt="jacock123" /></p>
+
 ### Support Me
 <ul style="list-style-type: none; margin: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/blackii"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
