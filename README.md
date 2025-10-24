@@ -1,9 +1,10 @@
 # Hi 👋 My name is Otis C.
 ## Hobby experimental Developer
-I'm a experimental hobby Developer, who uses its leisure time on Coding, little fun Projects in PHP, HTML, CSS, JavaScript, Python, Java and Kotlin. Everything started with Minecraft Client Developing over Python, to Plugin Development, to Web Development, to skript automatations for a Company.
+I'm a experimental hobby Developer, who uses its leisure time on Coding, little fun Projects in PHP, HTML, CSS, JavaScript, Python, Java and Kotlin. Everything started with Minecraft Client with Java Developing to Python, to Minecraft Plugin Development with Java and Kotlin, to Web Development, to skript automatations for a Company.
 * 🌍  I'm based in Hamburg
-* ✉️  You can contact me at ~~[in progress](about:blank)~~
-* 🧠  I'm learning PHP, Docker, and a lot about servers* 🤝  I'm open to collaborating on cool project ideas
+* ✉️  You can contact me at ~~[in progress](mailto:jakob.con@gmx.de)~~
+* 🧠  I'm learning PHP, Docker, and a lot about servers*
+* 🤝  I'm open to collaborating on cool project ideas
 
 ### Skills
 <p align="left">
@@ -11,11 +12,12 @@ I'm a experimental hobby Developer, who uses its leisure time on Coding, little 
 
 ## Hobby sound engineer
 I'm also working (sometimes) as a sound engineer in some local music venues. There i'm not specified on a single part of sound engineering, because it's so small i can run a gig on my own, but most of the time i'm working at the FOH 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacock123&show_icons=true&locale=en&layout=compact" alt="jacock123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacock123&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&locale=en&layout=compact" alt="jacock123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacock123&show_icons=true&locale=en" alt="jacock123" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacock123&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&locale=en" alt="jacock123" /></p>
+---
 ### Support Me
 <ul style="list-style-type: none; margin: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/blackii"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
